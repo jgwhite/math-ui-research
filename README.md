@@ -21,3 +21,6 @@ specialized keyboard that offered a choice of next-most-likely
 mathematical expressions be effective? How would such a thing work?
 Can ML and NLP techniques like word2vec be applied to mathematical
 constructions?
+
+[1]: https://www.coursera.org/learn/mathematical-thinking
+[2]: https://apps.apple.com/us/app/scikey-scientific-keyboard/id927863083
