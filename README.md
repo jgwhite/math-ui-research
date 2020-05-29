@@ -76,6 +76,8 @@ analysis methods.
 
 - What does Wolfram do?
 - What does PocketCAS do?
+- Recommendation engines?
+  - KNearest
 
 [1]: https://www.coursera.org/learn/mathematical-thinking
 [2]: https://apps.apple.com/us/app/scikey-scientific-keyboard/id927863083
