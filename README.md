@@ -18,8 +18,10 @@ practice.
 
 My next line of investigation is into auto-completion. Would a
 specialized keyboard that offered a choice of next-most-likely
-mathematical expressions be effective? How would such a thing work?
-Can ML and NLP techniques like word2vec be applied to mathematical
+mathematical expressions be effective? Would it be annoying to need
+to look at the keyboard all the time? Could suggestions provided
+closer to the formula being written? How would such a thing work? Can
+ML and NLP techniques like word2vec be applied to mathematical
 constructions?
 
 ![A crude sketch of autocomplete](images/autocomplete-sketch.jpg)
