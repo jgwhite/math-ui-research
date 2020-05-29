@@ -75,6 +75,7 @@ analysis methods.
 ## Ideas for Further Investigation
 
 - What does Wolfram do?
+- What does PocketCAS do?
 
 [1]: https://www.coursera.org/learn/mathematical-thinking
 [2]: https://apps.apple.com/us/app/scikey-scientific-keyboard/id927863083
