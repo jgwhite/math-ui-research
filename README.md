@@ -72,6 +72,43 @@ analysis methods.
 
 “Finite State Transducer” sounds so cool it must be good.
 
+> Keywords: Mathematical Information Retrieval (MIR), Query
+> Auto-Complete (QAC)
+
+Reading papers is a good way to learn terms to google for!
+
+> While QAC for text input is a well-studied topic, QAC for math
+> formula still remains an open research problem [4, 5].
+
+4 and 5 refer to [Approach0][5] and [Symbolab][6], both extremely
+interesting projects for math education.
+
+> A challenge for math QAC is that the input in search boxes is not
+> straightforward compared with plain text. Without a graphical
+> interface where math equations can be drawn, a LATEX-like syntax is
+> usually adopted.
+
+LaTeX truly is the lingua franca of math on the web.
+
+> Another challenge is the data structure used to store math formulae
+> to facilitate searching. Similar to an inverted index, the
+> prefix-tree is a commonly used data structure to store associations
+> between prefix and query completions. These trees provide efficient
+> lookups by matching prefixes.
+
+TODO: Learn how to implement prefix tree and related procedures.
+
+> In this study, We use the NTCIR-12 Wikipedia corpus, containing
+> 580,068 formulae to evaluate different QAC systems.
+
+I could use this corpus too. I wonder if it can be easily downloaded?
+
+> We define a baseline for Math QAC by evaluating these auto-complete
+> strategies using NTCIR-12 MathIR benchmark.
+
+I don’t really know what “baseline” means in this context. I guess
+“performance” of known algorithms with no additional optimization?
+
 ## Ideas for Further Investigation
 
 - What does Wolfram do?
@@ -83,3 +120,5 @@ analysis methods.
 [2]: https://apps.apple.com/us/app/scikey-scientific-keyboard/id927863083
 [3]: https://arxiv.org/abs/1912.04115
 [4]: http://ntcir-math.nii.ac.jp/
+[5]: https://approach0.xyz/
+[6]: https://www.symbolab.com/
